@@ -1,0 +1,14 @@
+D:\Assignment\oop\CustomProgram\bin\Debug\net7.0\CustomProgram.exe
+D:\Assignment\oop\CustomProgram\bin\Debug\net7.0\CustomProgram.deps.json
+D:\Assignment\oop\CustomProgram\bin\Debug\net7.0\CustomProgram.runtimeconfig.json
+D:\Assignment\oop\CustomProgram\bin\Debug\net7.0\CustomProgram.dll
+D:\Assignment\oop\CustomProgram\bin\Debug\net7.0\CustomProgram.pdb
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.AssemblyInfoInputs.cache
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.AssemblyInfo.cs
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.csproj.CoreCompileInputs.cache
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.dll
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\refint\CustomProgram.dll
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.pdb
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\CustomProgram.genruntimeconfig.cache
+D:\Assignment\oop\CustomProgram\obj\Debug\net7.0\ref\CustomProgram.dll
